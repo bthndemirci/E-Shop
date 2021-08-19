@@ -1,0 +1,12 @@
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\bin\Debug\net5.0\EShop.Core.deps.json
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\bin\Debug\net5.0\EShop.Core.dll
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\bin\Debug\net5.0\ref\EShop.Core.dll
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\bin\Debug\net5.0\EShop.Core.pdb
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.dll
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\ref\EShop.Core.dll
+C:\Users\Win10\Desktop\Yeditepesoft\EShop\EShop.Core\obj\Debug\net5.0\EShop.Core.pdb
